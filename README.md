@@ -1,8 +1,8 @@
-## LabenuSystem:
+## LabenuSystem
 
 É um sistema simples que representa o básico da escola digital [Labenu](https://www.labenu.com.br/).
 
-## URL:
+## URL
 - https://labesystem5.herokuapp.com/
 
 ## ENDPOINTS
