@@ -158,5 +158,3 @@
 
 ## Créditos
 - [Rafael N. Silva](https://github.com/rafansilva) (Developer)
-- [Erlan Carvalho](https://github.com/Carvalho001) (Developer)
-- [Labenu](https://www.labenu.com.br/) (Turma Lovalace)
